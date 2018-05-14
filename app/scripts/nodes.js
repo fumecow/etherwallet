@@ -45,7 +45,7 @@ nodes.nodeList = {
         'blockExplorerAddr': 'https://explorer.testnet.rsk.co/addr/[[address]]',
         'type': nodes.nodeTypes.RSK,
         'eip155': true,
-        'chainId': 779,
+        'chainId': 31,
         'tokenList': [],
         'abiList': require('./abiDefinitions/ethAbi.json'),
         'service': 'ShapeShift-RSK',
